@@ -1,0 +1,6 @@
+{
+  "name": "Coppel Renueva - Kiosco de Autoservicio",
+  "description": "Prototipo interactivo de kiosco de autoservicio en tienda Coppel para el programa de renovación y trade-in de smartphones Coppel Renueva.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
